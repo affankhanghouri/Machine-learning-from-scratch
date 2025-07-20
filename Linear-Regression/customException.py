@@ -1,0 +1,2 @@
+class TestSizeError(Exception):
+    pass
