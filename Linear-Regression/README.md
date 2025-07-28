@@ -1,4 +1,4 @@
-# My Custom Linear Regression 🚀
+# My Custom Linear Regression 
 
 Hey there!  
 This is my own custom implementation of **Linear Regression** from scratch just using **NumPy**, no scikit-learn for the model part!
@@ -33,7 +33,7 @@ Also, I wanted to improve my **Python skills**, **logical thinking**, and really
 
 In my next ML model:
 - I’ll try to **improve the custom model class structure**
-- And also write **sklearn-style metrics like `mean_squared_error`, `r2_score`** etc. — fully from scratch!
+- And also write **sklearn-style metrics like `mean_squared_error`, `r2_score`** etc.  fully from scratch!
 
 
 ---
