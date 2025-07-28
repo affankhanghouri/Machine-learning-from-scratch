@@ -13,12 +13,11 @@ So instead of using libraries like `sklearn.tree.DecisionTreeClassifier`, I buil
 ##  Files in this project
 
  
------------------------------------|
- `tree.py`       ->   My custom decision tree class (core logic) |
- `main.py`       ->  Code to train and test the model on the Iris dataset |
- `README.md`     ->   You are  reading it 🙂 |
 
----
+ - `My_decisonTreeClassifier.py`       ->   My custom decision tree class (core logic) 
+ - `decisonTree.ipyn`       ->  Code to train and test the model on the Iris dataset 
+ - `README.md`     ->   You are  reading it 🙂 
+
 
 ##  How the Decision Tree Works
 
